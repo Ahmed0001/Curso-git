@@ -52,7 +52,8 @@ namespace While
 
             for (int i = 0; i<= 10; i ++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i + " E agora joseff ?");
+                Console.WriteLine("\n");
             }
 
         }
